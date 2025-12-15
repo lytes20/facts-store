@@ -1,0 +1,224 @@
+{
+  "facts": [
+    {
+      "id": 1,
+      "fact": "Octopuses have three hearts and blue blood."
+    },
+    {
+      "id": 2,
+      "fact": "Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that is still edible."
+    },
+    {
+      "id": 3,
+      "fact": "A day on Venus is longer than its year. Venus rotates so slowly that it takes 243 Earth days to complete one rotation, but only 225 Earth days to orbit the sun."
+    },
+    {
+      "id": 4,
+      "fact": "Bananas are berries, but strawberries aren't."
+    },
+    {
+      "id": 5,
+      "fact": "Wombat poop is cube-shaped. This helps prevent it from rolling away and marks territory more effectively."
+    },
+    {
+      "id": 6,
+      "fact": "Sharks have been around longer than trees. Sharks appeared about 400 million years ago, while trees appeared about 350 million years ago."
+    },
+    {
+      "id": 7,
+      "fact": "A group of flamingos is called a 'flamboyance'."
+    },
+    {
+      "id": 8,
+      "fact": "The human brain uses about 20% of the body's total energy, despite being only 2% of the body's weight."
+    },
+    {
+      "id": 9,
+      "fact": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza."
+    },
+    {
+      "id": 10,
+      "fact": "There are more possible games of chess than atoms in the observable universe."
+    },
+    {
+      "id": 11,
+      "fact": "A single cloud can weigh more than a million pounds."
+    },
+    {
+      "id": 12,
+      "fact": "Dolphins have names for each other and can call each other by name."
+    },
+    {
+      "id": 13,
+      "fact": "The speed of light is approximately 299,792,458 meters per second, which is about 186,282 miles per second."
+    },
+    {
+      "id": 14,
+      "fact": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth."
+    },
+    {
+      "id": 15,
+      "fact": "The human nose can detect over 1 trillion different scents."
+    },
+    {
+      "id": 16,
+      "fact": "Polar bears have black skin under their white fur to better absorb heat from the sun."
+    },
+    {
+      "id": 17,
+      "fact": "The Great Wall of China is not visible from space with the naked eye, despite the popular myth."
+    },
+    {
+      "id": 18,
+      "fact": "A day on Mercury lasts 59 Earth days, but a year on Mercury is only 88 Earth days."
+    },
+    {
+      "id": 19,
+      "fact": "The human body contains enough iron to make a 3-inch nail."
+    },
+    {
+      "id": 20,
+      "fact": "Butterflies taste with their feet."
+    },
+    {
+      "id": 21,
+      "fact": "A group of owls is called a 'parliament'."
+    },
+    {
+      "id": 22,
+      "fact": "The first computer bug was an actual bug - a moth found trapped in a relay of the Harvard Mark II computer in 1947."
+    },
+    {
+      "id": 23,
+      "fact": "There are more trees on Earth than stars in the Milky Way galaxy."
+    },
+    {
+      "id": 24,
+      "fact": "A jiffy is an actual unit of time - it's 1/100th of a second."
+    },
+    {
+      "id": 25,
+      "fact": "The human heart creates enough pressure to squirt blood 30 feet."
+    },
+    {
+      "id": 26,
+      "fact": "Sloths can hold their breath longer than dolphins - up to 40 minutes underwater."
+    },
+    {
+      "id": 27,
+      "fact": "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion of the iron."
+    },
+    {
+      "id": 28,
+      "fact": "A single strand of spider silk is stronger than steel of the same thickness."
+    },
+    {
+      "id": 29,
+      "fact": "The word 'nerd' was first coined by Dr. Seuss in his book 'If I Ran the Zoo' in 1950."
+    },
+    {
+      "id": 30,
+      "fact": "Humans share 50% of their DNA with bananas."
+    },
+    {
+      "id": 31,
+      "fact": "A group of ravens is called a 'murder'."
+    },
+    {
+      "id": 32,
+      "fact": "The human brain can process images that the eye sees for as little as 13 milliseconds."
+    },
+    {
+      "id": 33,
+      "fact": "There's a planet made of diamonds twice the size of Earth called 55 Cancri e."
+    },
+    {
+      "id": 34,
+      "fact": "Penguins can jump up to 6 feet in the air."
+    },
+    {
+      "id": 35,
+      "fact": "The average person will spend about 6 months of their life waiting for red lights to turn green."
+    },
+    {
+      "id": 36,
+      "fact": "A single bolt of lightning contains enough energy to toast 100,000 slices of bread."
+    },
+    {
+      "id": 37,
+      "fact": "The human body produces about 25 million new cells every second."
+    },
+    {
+      "id": 38,
+      "fact": "A day on Pluto lasts 6.4 Earth days."
+    },
+    {
+      "id": 39,
+      "fact": "The word 'set' has more definitions than any other word in the English language."
+    },
+    {
+      "id": 40,
+      "fact": "Cows have best friends and can become stressed when separated from them."
+    },
+    {
+      "id": 41,
+      "fact": "The human eye can distinguish about 10 million different colors."
+    },
+    {
+      "id": 42,
+      "fact": "A group of jellyfish is called a 'smack'."
+    },
+    {
+      "id": 43,
+      "fact": "The first email was sent in 1971, and it was sent between two computers sitting right next to each other."
+    },
+    {
+      "id": 44,
+      "fact": "The human brain generates about 12-25 watts of electricity, enough to power a low-wattage LED light."
+    },
+    {
+      "id": 45,
+      "fact": "A shrimp's heart is in its head."
+    },
+    {
+      "id": 46,
+      "fact": "The total weight of all ants on Earth is roughly equal to the total weight of all humans."
+    },
+    {
+      "id": 47,
+      "fact": "The human body has about 37 trillion cells."
+    },
+    {
+      "id": 48,
+      "fact": "A group of kangaroos is called a 'mob'."
+    },
+    {
+      "id": 49,
+      "fact": "The first computer was invented in the 1940s and weighed more than 27 tons."
+    },
+    {
+      "id": 50,
+      "fact": "The human nose and ears never stop growing throughout a person's lifetime."
+    },
+    {
+      "id": 51,
+      "fact": "A single cloud can contain billions of water droplets."
+    },
+    {
+      "id": 52,
+      "fact": "The speed of a computer mouse is measured in 'Mickeys' - named after Mickey Mouse."
+    },
+    {
+      "id": 53,
+      "fact": "Humans are the only animals that blush."
+    },
+    {
+      "id": 54,
+      "fact": "The human body contains enough carbon to fill about 9,000 pencils."
+    },
+    {
+      "id": 55,
+      "fact": "A group of porcupines is called a 'prickle'."
+    }
+  ]
+}
